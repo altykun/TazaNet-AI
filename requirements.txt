@@ -1,0 +1,9 @@
+customtkinter
+opencv-python
+numpy, pillow 
+transformers 
+torch
+SpeechRecognition 
+pyaudio 
+pyttsx3 
+deep-translator
